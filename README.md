@@ -1,4 +1,4 @@
-# Ivory
+# Ivory（clone）
 
 **NOTE: Still very much in early stages.**
 
@@ -15,6 +15,3 @@ Ivory is a beautifully designed client app for [Mastodon](https://joinmastodon.o
 
 Keep your eye on the [issues](https://github.com/askosh/ivory/issues) to know what stuff is being worked on.
 
-## Support
-
-For any support please open a issue or send me a toot at [@asko@asko.dev](https://asko.dev/@asko). 
